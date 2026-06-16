@@ -1,0 +1,6 @@
+[project]
+config_version=5
+
+[application]
+name="Plate Harmony"
+run/main_scene="res://scenes/main.tscn"

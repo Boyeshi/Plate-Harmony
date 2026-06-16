@@ -1,0 +1,19 @@
+# Godot
+/.import/
+/.export/
+/.cache/
+*.import
+*.godot.import
+
+# Mono / C#
+/.mono/
+
+# VS Code
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large asset folder (use Git LFS locally)
+/assets/
